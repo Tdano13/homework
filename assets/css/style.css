@@ -1,23 +1,8 @@
+#imagetop {
+width: 60px;
+height: 120px;
+}
 
 
-  #searchContainer {
-    position: relative;
-    width: 300px;
-  }
 
-  #searchBar {
-    width: 100%;
-    padding: 10px;
-    border-radius: 20px;
-    border: 1px solid #ccc;
-    outline: none;
-    padding-left: 40px; /* Space for the magnifying glass icon */
-    box-sizing: border-box;
-  }
-
-  #searchIcon {
-    position: absolute;
-    top: 50%;
-    left: 10px;
-    transform: translateY(-50%);
-  }
+  
